@@ -1,6 +1,6 @@
 ### Hi there, I am Farhan Tanvir Utshaw
 
-[![Website](https://img.shields.io/website?label=utshaw.com&style=for-the-badge&url=https%3A%2F%2Futshaw.com)](http://utshaw.com/)
+[![Website](https://img.shields.io/website?label=utshaw.com&style=for-the-badge&url=https%3A%2F%2Futshaw.com)](https://utshaw.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-utshaw-29ab99108/)
 
 ## I'm a Full Stack Developer
@@ -45,6 +45,6 @@
 
 
 
-[website]: http://utshaw.com
+[website]: https://utshaw.com
 [youtube]: https://youtube.com/channel/UCppDNtA1agHtBlpr2uDdduA
 [linkedin]: https://www.linkedin.com/in/farhan-utshaw-29ab99108/
