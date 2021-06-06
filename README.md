@@ -38,8 +38,6 @@
 ---
 ---
 
-<img align="center" style="margin: 0 auto; display: block" alt="Utshaw's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=utshaw&show_icons=true&hide_border=true&count_private=true" />
-
 
 <img align="center" style="margin: 0 auto; display: block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utshaw" alt="Utshaw's most used languages" />
 
