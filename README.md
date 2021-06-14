@@ -7,6 +7,11 @@
 
 - 🔭 Working as Android Team Lead at  [BYDO Academy](https://bydoacademy.com/)
 
+| GitHub | Stackoverflow Status |
+| --------------- | -------------------- |
+| ![Visitors](https://komarev.com/ghpvc/?username=utshaw&color=brightgreen) | <a href="https://stackoverflow.com/users/7004995/eyllanesc"><img src="https://stackoverflow.com/users/flair/7004995.png" width="208" height="58" alt="Utshaw's Stack Overflow stat" title="Utshaw's Stack Overflow stat"></a> |
+
+https://img.shields.io/stackexchange/stackoverflow/r/7004995?order=desc&sort=reputation&site=stackoverflow
 
 ### Connect with me:
 
