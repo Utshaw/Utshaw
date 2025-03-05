@@ -1,11 +1,11 @@
 ### Hi there, I am Farhan Tanvir Utshaw
 
 [![Website](https://img.shields.io/website?label=utshaw.com&style=for-the-badge&url=https%3A%2F%2Futshaw.com)](https://utshaw.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-utshaw-29ab99108/)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-utshaw-29ab99108/) -->
 
-## I'm a Full Stack Developer
+<!-- ## I'm a Full Stack Developer -->
 
-- 🔭 Working as Android Team Lead at  [BYDO Academy](https://bydoacademy.com/)
+Working as a Graduate Assistant at the Department of Computer Science at Missouri State University.
 
 | Stackoverflow Status |
 | -------------------- |
@@ -15,10 +15,10 @@
 
 
 [<img src="https://img.icons8.com/doodle/48/fa314a/youtube--v1.png"/>][YouTube]
-[<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>][LinkedIn]
+<!-- [<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>][LinkedIn] -->
 
 <br />
-
+<!--
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -38,7 +38,7 @@
 <br />
 <br />
 
-
+-->
 
 <img align="center" style="margin: 0 auto; display: block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utshaw" alt="Utshaw's most used languages" />
 
